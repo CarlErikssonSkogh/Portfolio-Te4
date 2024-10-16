@@ -1,0 +1,36 @@
+.text-primary {
+color: #ffffff !important; /* Custom primary color */
+}
+
+.bg-gray {
+background-color: #e4e1e1 !important; /* Custom primary background color */
+}
+
+.bg-primary-icon {
+    color: #2188BB; /* Assuming you're using Bootstrap 5 */
+}
+
+.text-primary {
+color: #2188BB !important; /* Custom primary color */
+}
+
+.bg-primary {
+background-color: #2188BB !important; /* Custom primary background color */
+}
+
+.bg-primary-light {
+    background-color:  #029AE6!important; /* Custom primary background color */
+}
+
+.bg-primary-dark {
+    background-color: #345566 !important; /* Custom primary background color */
+}
+
+.bg-white {
+background-color: #ffffff !important; /* Custom white background color */
+}
+
+h1 {
+color: rgb(255, 255, 255) !important;
+}
+
