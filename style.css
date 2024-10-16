@@ -34,3 +34,17 @@ h1 {
 color: rgb(255, 255, 255) !important;
 }
 
+.main-content {
+    min-height: 150vh;
+    display: flex; /* Ensure children can use flex properties */
+    flex-direction: column; /* Arrange children in a column */
+}
+
+.sidebar {
+    flex: 1; /* Take up the remaining space */
+    background-color: #2188BB !important; /* Custom primary background color */
+}
+
+.header{
+height: 10vh;
+}
